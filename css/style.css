@@ -5042,10 +5042,6 @@ body {
   margin: 0px 0px 0px 80px;
 }
 
-.comments__answer .comments__text {
-  font-weight: 700;
-}
-
 .comments__answer:before {
   content: "";
   width: 100%;
